@@ -68,3 +68,6 @@ gem 'html2slim'
 
 # bootstrap
 gem 'bootstrap', '~> 4.6'
+
+# rails-i18n
+gem 'rails-i18n', '~> 5.1' 
